@@ -1,3 +1,3 @@
 # jokeTeller
 
-Vanilla JS & CSS project from Andrei Neagoie ZTM course.
+Vanilla JS & custom CSS project from Andrei Neagoie ZTM course. 
